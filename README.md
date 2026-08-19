@@ -19,7 +19,7 @@ The main technical ideas in this project are:
 
 ## Results
 
-From the final dataset and rollout experiments described in our report:
+From the final dataset and rollout experiments:
 
 - 70 real-world UMI demonstrations were recorded.
 - The dataset contained 459 successful demonstrations, includes:
